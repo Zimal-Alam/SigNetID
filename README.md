@@ -1,4 +1,5 @@
 "SigNetID: Signature Recognition using CNN and Feature Engineering Techniques"
+
 🔍 Detailed Description:
 SigNetID is a computer vision project focused on developing an intelligent signature verification system using Convolutional Neural Networks (CNNs). The objective is to accurately identify which individual a handwritten signature belongs to by analyzing signature images through deep learning and traditional feature extraction methods.
 
